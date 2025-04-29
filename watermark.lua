@@ -1,6 +1,6 @@
 --[[
     Watermark for Lmaobox with Cathook-style UI
-    Enhanced by Grok
+    Enhanced by Devxeno.lua
 ]]
 
 -- Print initialization message
